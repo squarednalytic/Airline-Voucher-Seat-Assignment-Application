@@ -15,8 +15,7 @@ A full-stack web application for airline crew members to generate random seat vo
 8. [Docker Setup](#docker-setup-optional)
 9. [API Documentation](#api-documentation)
 10. [Testing](#testing)
-11. [Troubleshooting](#troubleshooting)
-12. [Support](#support)
+11. [Support](#support)
 
 ---
 
